@@ -27,12 +27,10 @@ DinoRealm is a realistic 3D T-Rex Simulator project focused on modelling, design
 ## Tools
 **Blender** - to render engines like Cycles renderer that support features like lightning effects, illumination, etc...
 
-**IDE**
-VS Code
+**IDE** - VS Code
 
 **Language**
 Python - for advanced features like automating repetitive tasks
-
 
 ## Getting Started
 
