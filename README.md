@@ -14,7 +14,7 @@ This application aims to provide users with an immersive experience in a life-li
 
 ## Introduction
 
-DinoRealm is a realistic 3D T-Rex Simulator project focused on modelling, designing, and creating a true-to-life 3D representation of the T-Rex. By implementing advanced graphics and animation techniques, we aim to offer users an educational and entertaining experience where they can observe and interact with a virtual T-Rex in its natural environment.
+DinoRealm is a realistic 3D T-Rex Simulator project focused on modelling, designing, and creating a true-to-life 3D representation of the T-Rex. By implementing advanced graphics and animation techniques, we aim to offer users an educational and entertaining experience where they can observe and interact with a virtual T-Rex in its natural environment. The simulator hopes to allow one to explore the environment, observe the T-Rex's behaviour, and enjoy an education journey into the prehistoric world.
 
 ## Features
 
@@ -25,18 +25,23 @@ DinoRealm is a realistic 3D T-Rex Simulator project focused on modelling, design
 
 
 ## Tools
-**Blender** - to render engines like Cycles 
+**Blender** - to render engines like Cycles renderer that support features like lightning effects, illumination, etc...
+
 **IDE**
 VS Code
+
 **Language**
 Python - for advanced features like automating repetitive tasks
 
 
 ## Getting Started
 
-To get started with the Realistic 3D T-Rex Simulator, follow these steps:
+To get started with DinoRealm, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/barbara-mule/t-rex-simulator.git
+   
 
+## Contributing
+Contributions to enhance and improve the DinoRealm simulator are welcome.
