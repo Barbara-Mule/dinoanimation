@@ -31,8 +31,6 @@ VS Code
 **Language**
 Python - for advanced features like automating repetitive tasks
 
-![image](https://github.com/Barbara-Mule/dinorealm/assets/114791850/8fe96c3b-0f31-401a-920b-ee80eb228188)
-
 
 ## Getting Started
 
