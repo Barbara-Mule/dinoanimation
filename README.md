@@ -1,6 +1,6 @@
 # DinoRealm
-##Overview
 
+## Overview
 This application aims to provide users with an immersive experience in a life-like environment, allowing them to learn about the mighty Tyrannosaurus Rex (T-Rex) through realistic movements and features.
 
 ## Table of Contents
